@@ -19,3 +19,4 @@ Steps:
 Accuracies
 - Linear Regression - 84.26
 - Ridge Regression - 84.27
+- Elastic Net Regression - 83.29
